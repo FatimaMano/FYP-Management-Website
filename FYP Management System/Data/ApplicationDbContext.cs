@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using FYP_Management_System.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace FYP_Management_System.Data
@@ -9,5 +10,7 @@ namespace FYP_Management_System.Data
             : base(options)
         {
         }
+        public DbSet<ProjectIdeas> ProjectIdeas { get; set; }
+
     }
 }

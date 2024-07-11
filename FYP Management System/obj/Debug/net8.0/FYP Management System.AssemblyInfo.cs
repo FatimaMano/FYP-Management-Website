@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FYP Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1fec6c1a3cecbcb1d830f69d0290050d73c8999")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f87bbaf96f7b4761716ac3b758ce976d5450500")]
 [assembly: System.Reflection.AssemblyProductAttribute("FYP Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FYP Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

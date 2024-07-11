@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Project Idea Submitted";
+}
+<h1>@ViewData["Title"]</h1>
+<p>Project Idea Successfully Submitted</p>
+@model FYP_Management_System.Models.ProjectIdeas
+
+<h2>Project Idea Submitted</h2>
+<p>Name: @Model.name</p>
+<p>Description: @Model.description</p>
+<p>Category: @Model.category</p>
+<p>Status: @Model.status</p>
