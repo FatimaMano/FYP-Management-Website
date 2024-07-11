@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Project Ideas";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Add Your Project Idea here.</p>
+<div class="row">
+  <div class="col">
+    <input type="text" class="form-control" placeholder="First name" aria-label="First name">
+  </div>
+  <div class="col">
+    <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+  </div>
+</div>
+<form class="row g-3">
+  <div class="col-auto">
+    <label for="Title" class="visually-hidden">Title</label>
+    <input type="text" readonly class="form-control-plaintext" id="Title" value="email@example.com">
+  </div>
+  <div class="col-auto">
+    <label for="Description" class="visually-hidden">Description</label>
+    <input type="text" class="form-control" id="Description" placeholder="Description">
+  </div>
+  <div class="col-auto">
+    <button type="submit" class="btn btn-primary mb-3">Submit</button>
+  </div>
+</form>
