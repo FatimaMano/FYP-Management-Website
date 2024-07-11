@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FYP Management Website MVC\\FYP Management System\\FYP Management System.csproj",
+      "projectUniqueName": "D:\\FYP Management Website MVC\\FYP-Management-Website\\FYP Management System\\FYP Management System.csproj",
       "projectName": "FYP Management System",
-      "projectPath": "D:\\FYP Management Website MVC\\FYP Management System\\FYP Management System.csproj",
+      "projectPath": "D:\\FYP Management Website MVC\\FYP-Management-Website\\FYP Management System\\FYP Management System.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\FYP Management Website MVC\\FYP Management System\\obj\\",
+      "outputPath": "D:\\FYP Management Website MVC\\FYP-Management-Website\\FYP Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
